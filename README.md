@@ -1,5 +1,8 @@
-# Cursos
-Estes são os cursos extracurriculares que realizei durante a faculdade. Aqui você encontrará:
-1. Certificados.
-2. Relatórios enviados para a UNIP.
-3. Reflexões pessoais sobre o conteúdo e abordagem de cada curso.
+# Cursos Extracurriculares
+Estes são os cursos extracurriculares que realizei durante a faculdade e o início da minha jornada no mundo da tecnologia.
+**Aqui você encontrará:**
+
+1. _Certificados._
+2. _Relatórios enviados para a UNIP._
+3. _Reflexões pessoais sobre o conteúdo e abordagem de cada curso._
+4. _Atividades propostas no curso (caso existam)._
