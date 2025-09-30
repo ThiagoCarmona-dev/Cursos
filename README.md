@@ -1,4 +1,4 @@
-# Cursos Extracurriculares
+# _Cursos Extracurriculares_
 ### Estes são os cursos extracurriculares que realizei durante a faculdade e o início da minha jornada no mundo da tecnologia.
 **Aqui você encontrará:**
 
